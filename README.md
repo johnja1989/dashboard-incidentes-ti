@@ -14,7 +14,7 @@ Dashboard estadístico en tiempo real para la gestión y visualización de incid
 
 ## 🚀 Demo en Vivo
 
-👉 **[Ver Dashboard](https://tu-usuario.github.io/dashboard-incidentes)**
+👉 **[Ver Dashboard](https://johnja1989.github.io/dashboard-incidentes-ti/)**
 
 ## 📋 Requisitos
 
@@ -239,5 +239,6 @@ Este proyecto es de uso interno corporativo.
 Para sugerencias o mejoras, contacta al autor.
 
 ---
+
 
 **"Transformando ideas en soluciones tecnológicas"** ✨
